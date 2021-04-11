@@ -1,11 +1,10 @@
 package medium;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 public class Permutations {
-
+	
 	 public List<List<Integer>> permute(int[] nums) {
 			List<List<Integer>> result = new ArrayList<List<Integer>>();
 	        Integer[] list = new Integer[nums.length];
