@@ -4,9 +4,9 @@ import easy.ListNode;
 
 public class MergedKSortedLists {
 	public ListNode mergeKLists(ListNode[] lists) {
-		ListNode result;
+		ListNode result = null;
 		if(lists.length ==0)
-			return new ListNode();
+			return result;
 		else if(lists.length ==1)
 			return lists[0];
 		else {
