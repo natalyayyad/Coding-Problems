@@ -31,7 +31,7 @@
 [arrays - ds]: https://www.hackerrank.com/challenges/arrays-ds/problem
 [e0002]: Easy/DSE2.js?ts=4
 [2d array - ds]: https://www.hackerrank.com/challenges/2d-array/problem
-[e0003]: Easy/E0003.cpp?ts=4
+[e0003]: Easy/DSE3.js?ts=4
 [dynamic array]: https://www.hackerrank.com/challenges/dynamic-array/problem
 [e0004]: Easy/E0004.cpp?ts=4
 [left rotation]: https://www.hackerrank.com/challenges/array-left-rotation/problem
