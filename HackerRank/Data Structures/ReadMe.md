@@ -7,7 +7,7 @@
 |      [DSE1]      | [Arrays - DS]                                           |
 |      [DSE2]      | [2D Array - DS]                                         |
 |      [DSE3]      | [Dynamic Array]                                         |
-|     [E0004]      | [Left Rotation]                                         |
+|      [DSE4]      | [Left Rotation]                                         |
 |     [E0005]      | [Print the Elements of a Linked List]                   |
 |     [E0006]      | [Insert a Node at the Tail of a Linked List]            |
 |     [E0007]      | [Insert a node at the head of a linked list]            |
@@ -33,7 +33,7 @@
 [2d array - ds]: https://www.hackerrank.com/challenges/2d-array/problem
 [e0003]: Easy/DSE3.js?ts=4
 [dynamic array]: https://www.hackerrank.com/challenges/dynamic-array/problem
-[e0004]: Easy/E0004.cpp?ts=4
+[e0004]: Easy/DSE4.js?ts=4
 [left rotation]: https://www.hackerrank.com/challenges/array-left-rotation/problem
 [e0005]: Easy/E0005.cpp?ts=4
 [print the elements of a linked list]: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
