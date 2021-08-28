@@ -2,7 +2,7 @@
 
 ### Subdomains
 
-- [x] [Arrays](Data%20Structures/Arrays)
+- [x] [Arrays](https://github.com/natalyayyad/Coding-Problems/tree/master/HackerRank/Data%20Structures/Arrays)
 
 - [ ] [Linked Lists]
 
