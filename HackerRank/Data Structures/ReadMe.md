@@ -2,7 +2,7 @@
 
 ### Subdomains
 
-- [x] [Arrays](DataStructures/Arrays)
+- [x] [Arrays](Data%20Structures/Arrays)
 
 - [ ] [Linked Lists]
 
