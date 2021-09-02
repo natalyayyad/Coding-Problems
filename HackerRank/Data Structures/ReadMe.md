@@ -26,12 +26,13 @@
 
 ### Easy
 
-| Problem Solution | Problem Statement |
-| :--------------: | ----------------- |
-|      [DSE1]      | [Arrays - DS]     |
-|      [DSE2]      | [2D Array - DS]   |
-|      [DSE3]      | [Dynamic Array]   |
-|      [DSE4]      | [Left Rotation]   |
+| Problem Solution | Problem Statement                   |
+| :--------------: | ----------------------------------- |
+|      [DSE1]      | [Arrays - DS]                       |
+|      [DSE2]      | [2D Array - DS]                     |
+|      [DSE3]      | [Dynamic Array]                     |
+|      [DSE4]      | [Left Rotation]                     |
+|      [DSE5]      | Print the Elements of a Linked List |
 
 ### Medium
 
@@ -54,6 +55,8 @@
 [dynamic array]: https://www.hackerrank.com/challenges/dynamic-array/problem
 [dse4]: Arrays/Easy/DSE4.js?ts=4
 [left rotation]: https://www.hackerrank.com/challenges/array-left-rotation/problem
+[dse5]: Linked%20Lists/Easy/DSE5.js?ts=4
+[print the elements of a linked list]: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
 [//]: # "Medium"
 [dsm1]: Arrays/Medium/DSM1.js?ts=4
 [sparse arrays]: https://www.hackerrank.com/challenges/sparse-arrays/problem
