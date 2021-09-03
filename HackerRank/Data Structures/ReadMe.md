@@ -4,7 +4,7 @@
 
 - [x] [Arrays](https://github.com/natalyayyad/Coding-Problems/tree/master/HackerRank/Data%20Structures/Arrays)
 
-- [ ] [Linked Lists]
+- [ ] [Linked Lists](https://github.com/natalyayyad/Coding-Problems/tree/master/HackerRank/Data%20Structures/Linked%20Lists)
 
 - [ ] [Trees]
 
@@ -37,6 +37,7 @@
 |      [DSE7]      | [Insert a Node at the Head of a Linked List]            |
 |      [DSE8]      | [Insert a Node at a Specific Position in a Linked List] |
 |      [DSE9]      | [Delete a Node]                                         |
+|      [DSE9]      | [Print in Reverse]                                      |
 
 ### Medium
 
@@ -63,12 +64,14 @@
 [print the elements of a linked list]: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
 [dse6]: Linked%20Lists/Easy/DSE6.js?ts=4
 [insert a node at the tail of a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
-[dse7]: Linked%20Lists/Easy/DSE6.js?ts=4
+[dse7]: Linked%20Lists/Easy/DSE7.js?ts=4
 [insert a node at the head of a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
-[dse8]: Linked%20Lists/Easy/DSE6.js?ts=4
+[dse8]: Linked%20Lists/Easy/DSE8.js?ts=4
 [insert a node at a specific position in a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
-[dse9]: Linked%20Lists/Easy/DSE6.js?ts=4
+[dse9]: Linked%20Lists/Easy/DSE9.js?ts=4
 [delete a node]: https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
+[dse10]: Linked%20Lists/Easy/DSE10.js?ts=4
+[print in reverse]: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem
 [//]: # "Medium"
 [dsm1]: Arrays/Medium/DSM1.js?ts=4
 [sparse arrays]: https://www.hackerrank.com/challenges/sparse-arrays/problem
