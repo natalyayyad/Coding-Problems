@@ -8,6 +8,7 @@
 |      [DSE6]      | [Insert a Node at the Tail of a Linked List]            |
 |      [DSE7]      | [Insert a Node at the Head of a Linked List]            |
 |      [DSE8]      | [Insert a Node at a Specific Position in a Linked List] |
+|      [DSE9]      | [Delete a Node]                                         |
 
 ### Medium
 
@@ -28,6 +29,8 @@
 [insert a node at the head of a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
 [dse8]: Easy/DSE6.js?ts=4
 [insert a node at a specific position in a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
+[dse9]: Easy/DSE6.js?ts=4
+[insert a node at a specific position in a linked list]: https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
 [//]: # "Medium"
 [//]: # "Hard"
 [//]: # "EOF"

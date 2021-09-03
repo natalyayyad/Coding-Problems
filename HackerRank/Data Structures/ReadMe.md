@@ -66,6 +66,8 @@
 [insert a node at the head of a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
 [dse8]: Linked%20Lists/Easy/DSE6.js?ts=4
 [insert a node at a specific position in a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
+[dse9]: Linked%20Lists/Easy/DSE6.js?ts=4
+[insert a node at a specific position in a linked list]: https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
 [//]: # "Medium"
 [dsm1]: Arrays/Medium/DSM1.js?ts=4
 [sparse arrays]: https://www.hackerrank.com/challenges/sparse-arrays/problem
