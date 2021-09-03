@@ -34,6 +34,7 @@
 |      [DSE4]      | [Left Rotation]                              |
 |      [DSE5]      | [Print the Elements of a Linked List]        |
 |      [DSE6]      | [Insert a Node at the Tail of a Linked List] |
+|      [DSE7]      | [Insert a Node at the Head of a Linked List] |
 
 ### Medium
 
@@ -60,6 +61,8 @@
 [print the elements of a linked list]: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
 [dse6]: Linked%20Lists/Easy/DSE6.js?ts=4
 [insert a node at the tail of a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
+[dse7]: Linked%20Lists/Easy/DSE6.js?ts=4
+[insert a node at the head of a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
 [//]: # "Medium"
 [dsm1]: Arrays/Medium/DSM1.js?ts=4
 [sparse arrays]: https://www.hackerrank.com/challenges/sparse-arrays/problem
