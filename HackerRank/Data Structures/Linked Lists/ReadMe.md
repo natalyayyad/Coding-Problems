@@ -30,7 +30,7 @@
 [dse8]: Easy/DSE6.js?ts=4
 [insert a node at a specific position in a linked list]: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
 [dse9]: Easy/DSE6.js?ts=4
-[insert a node at a specific position in a linked list]: https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
+[delete a node]: https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
 [//]: # "Medium"
 [//]: # "Hard"
 [//]: # "EOF"
