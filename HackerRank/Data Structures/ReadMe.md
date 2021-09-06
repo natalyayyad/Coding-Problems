@@ -37,8 +37,9 @@
 |      [DSE7]      | [Insert a Node at the Head of a Linked List]            |
 |      [DSE8]      | [Insert a Node at a Specific Position in a Linked List] |
 |      [DSE9]      | [Delete a Node]                                         |
-|      [DSE9]      | [Print in Reverse]                                      |
-|     [DSE10]      | [Reverse a Linked List]                                 |
+|     [DSE10]      | [Print in Reverse]                                      |
+|     [DSE11]      | [Reverse a Linked List]                                 |
+|     [DSE12]      | [Compare Two Linked Lists]                              |
 
 ### Medium
 
@@ -75,6 +76,8 @@
 [print in reverse]: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem
 [dse11]: Linked%20Lists/Easy/DSE11.js?ts=4
 [reverse a linked list]: https://www.hackerrank.com/challenges/reverse-a-linked-list/problem
+[dse12]: Linked%20Lists/Easy/DSE12.js?ts=4
+[compare two linked lists]: https://www.hackerrank.com/challenges/compare-two-linked-lists/problem
 [//]: # "Medium"
 [dsm1]: Arrays/Medium/DSM1.js?ts=4
 [sparse arrays]: https://www.hackerrank.com/challenges/sparse-arrays/problem
