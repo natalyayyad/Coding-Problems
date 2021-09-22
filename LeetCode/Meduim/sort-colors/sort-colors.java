@@ -6,6 +6,7 @@
 * arr[low...mid-1] = 1
 * Time Complexity O(n)
 * Space Complexity O(1)
+* Uses the Dutch National Flag Algorithm
 */
 class Solution {
     public void sortColors(int[] nums) {
