@@ -1,6 +1,7 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-    if(nums.length ==0)
+        /* Space Complexity O(N^2)
+        if(nums.length ==0)
 			return 0;
 		
 		if(nums.length == 1)
@@ -18,5 +19,16 @@ class Solution {
 			index++;
 		}
 		return max;
+        */
+        // Space Complexity O(N)
+        
+        int sum=0;
+        int max = nums[0];
+        for(int num : nums){
+            sum +=num;
+            max = Math.max(max,sum);
+            if(sum <0) sum=0;
+        }
+        return max;
     }
 }
