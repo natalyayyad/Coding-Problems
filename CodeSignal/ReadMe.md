@@ -19,6 +19,7 @@
 |  [addTwoDigits]   | [Intro Gates - AddTwoDigits]           |
 |  [largestNumber]  | [Intro Gates - LargestNumber]          |
 |     [candies]     | [Intro Gates - Candies]                |
+| [seatsInTheater]  | [Intro Gates - SeatsInTheater]         |
 
 [//]: # "Arcade"
 [add]: Arcade/Intro/The%20Journey%20Begins/add.java?ts=4
@@ -31,4 +32,6 @@
 [intro gates - largestnumber]: https://app.codesignal.com/arcade/code-arcade/intro-gates/SZB5XypsMokGusDhX
 [candies]: Arcade/The%20Core/Intro%20Gates/candies.java?ts=4
 [intro gates - candies]: https://app.codesignal.com/arcade/code-arcade/intro-gates/DdNKFA3XCX6XN7bNz
+[seatsintheater]: Arcade/The%20Core/Intro%20Gates/seatsInTheater.java?ts=4
+[intro gates - seatsintheater]: https://app.codesignal.com/arcade/code-arcade/intro-gates/bszFiQAog96G9CXKg
 [//]: # "EOF"
