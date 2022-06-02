@@ -2,7 +2,7 @@
 
 ### Subdomains
 
-- [ ] [1 Week Preparation Kit](https://github.com/natalyayyad/Coding-Problems/tree/master/HackerRank/Interview%20Preparation%20Kits/1%20Week%20Preparation%20Kits)
+- [ ] [1 Week Preparation Kit](https://github.com/natalyayyad/Coding-Problems/tree/master/HackerRank/Interview%20Preparation%20Kits/1%20Week%20Preparation%20Kit)
 
 ### 1 Week Preparation Kit
 
